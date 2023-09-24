@@ -1,0 +1,11 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ZanoLeafVN/Blackking-x-BobHub/main/Bxb-obf.lua', true))()
+
+https://discord.gg/VUtEU4WGXQ
+my server 
+
+https://discord.com/invite/X7AdEvPMcH
+bobhub
+
+https://discord.gg/sGtWF4UH
+
+my server x2
